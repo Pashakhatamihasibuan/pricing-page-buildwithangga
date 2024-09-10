@@ -22,7 +22,7 @@ class ListItem extends StatelessWidget {
           "assets/icons/ic_checkv2.png",
           width: 26,
         ),
-        SizedBox(
+        const SizedBox(
           width: 12,
         ),
         Text(
